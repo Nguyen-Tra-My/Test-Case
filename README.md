@@ -30,35 +30,8 @@
 ## 💡 Ứng dụng trong giảng dạy lập trình
 
 Dưới đây là một số dạng bài tập lập trình phổ biến và cách sử dụng ứng dụng để tạo bộ dữ liệu phù hợp:
-🔹 Tìm giá trị lớn nhất / nhỏ nhất trong mảng
--Thiết lập: Số nguyên, số phần tử, min/max
--Ví dụ dữ liệu: 
--10
--5 2 9 1 4 8 7 6 0 3
 
-🔹 Sắp xếp mảng tăng/giảm
--Thiết lập: Số nguyên, số phần tử bất kỳ
--Ví dụ dữ liệu: 
--5
--15 3 9 0 6
-🔹 Tìm kiếm tuyến tính / nhị phân
--Thiết lập: Dãy đã sắp xếp hoặc ngẫu nhiên + giá trị cần tìm
--Ví dụ dữ liệu: 
--6
--2 4 6 8 10 12
--6
-🔹 Đếm số lượng phần tử thỏa mãn điều kiện
-Thiết lập: Số thực hoặc số nguyên, có thể ràng buộc min/max
-Ví dụ dữ liệu: 
-8
-1.5 2.3 5.1 0.7 3.2 2.2 4.5 1.9
-🔹 Làm việc với ma trận
-Thiết lập: Mảng 2 chiều (nhập số dòng, cột)
-Ví dụ dữ liệu: 
-3 3
-1 2 3
-4 5 6
-7 8 9
+![image](https://github.com/user-attachments/assets/44a255b3-06af-45d1-b405-700a776c5364)
 
 ---
 

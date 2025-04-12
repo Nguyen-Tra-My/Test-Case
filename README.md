@@ -31,21 +31,22 @@
 
 Dưới đây là một số dạng bài tập lập trình phổ biến và cách sử dụng ứng dụng để tạo bộ dữ liệu phù hợp:
 🔹 Tìm giá trị lớn nhất / nhỏ nhất trong mảng
-Thiết lập: Số nguyên, số phần tử, min/max
-Ví dụ dữ liệu: 
-10
-5 2 9 1 4 8 7 6 0 3
+-Thiết lập: Số nguyên, số phần tử, min/max
+-Ví dụ dữ liệu: 
+-10
+-5 2 9 1 4 8 7 6 0 3
+
 🔹 Sắp xếp mảng tăng/giảm
-Thiết lập: Số nguyên, số phần tử bất kỳ
-Ví dụ dữ liệu: 
-5
-15 3 9 0 6
+-Thiết lập: Số nguyên, số phần tử bất kỳ
+-Ví dụ dữ liệu: 
+-5
+-15 3 9 0 6
 🔹 Tìm kiếm tuyến tính / nhị phân
-Thiết lập: Dãy đã sắp xếp hoặc ngẫu nhiên + giá trị cần tìm
-Ví dụ dữ liệu: 
-6
-2 4 6 8 10 12
-6
+-Thiết lập: Dãy đã sắp xếp hoặc ngẫu nhiên + giá trị cần tìm
+-Ví dụ dữ liệu: 
+-6
+-2 4 6 8 10 12
+-6
 🔹 Đếm số lượng phần tử thỏa mãn điều kiện
 Thiết lập: Số thực hoặc số nguyên, có thể ràng buộc min/max
 Ví dụ dữ liệu: 
